@@ -1,7 +1,7 @@
 # rust-devcontainer-base
 
 ## Description
-This repository is base that to write rust code for VSCode users.
+This repository is base that to write rust code for VSCode users.  
 You need install "Remote Development" extention.
 
 ## Init
