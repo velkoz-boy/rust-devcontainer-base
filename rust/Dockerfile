@@ -6,6 +6,6 @@ RUN apt-get update && apt-get install -y \
 WORKDIR /home/rust/workdir
 RUN rustup component add rust-analysis --toolchain 1.44.1-x86_64-unknown-linux-gnu
 RUN rustup component add rls --toolchain 1.44.1-x86_64-unknown-linux-gnu
-RUN cargo install cross
+RUN apt install mingw-w64
 
 CMD sleep infinity
