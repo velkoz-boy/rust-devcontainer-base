@@ -1,0 +1,9 @@
+{
+    "dockerComposeFile": "../../docker-compose.yml",
+    "service": "rust",
+    "workspaceFolder": "/home/rust",
+    "extensions": [
+        "rust-lang.rust",
+        "vadimcn.vscode-lldb"
+    ]
+}
