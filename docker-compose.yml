@@ -4,4 +4,3 @@ services:
     build: ./rust
     volumes:
         - ./rust/:/home/rust
-        - /var/run/docker.sock:/var/run/docker.sock
