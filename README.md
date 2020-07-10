@@ -1,16 +1,16 @@
 # rust-devcontainer-base
 
-## description
+## Description
 This repository is base that to write rust code for VSCode users.
 
-## init
+## Init
 1. Choose "Remote-Containers Open Folder in Container..." and select "rust" folder.
 
 2. Wait for launching.
 
 3. Run "cargo init" in terminal in container launched.
 
-## debug
+## Debug
 1. Press F5 and choose "LLDB".
 
 2. Say yes to ask that generate launch configurations.
