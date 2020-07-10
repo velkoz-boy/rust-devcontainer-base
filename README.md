@@ -2,6 +2,7 @@
 
 ## Description
 This repository is base that to write rust code for VSCode users.
+You need install "Remote Development" extention.
 
 ## Init
 1. Choose "Remote-Containers Open Folder in Container..." and select "rust" folder.
